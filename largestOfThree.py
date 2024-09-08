@@ -1,7 +1,8 @@
 # Angelo Andrade
 # largestOfThree.py
 # 9/8/24
-# Write a Python program that uses nested if statements (nested decisions) to get three integers from the user and outputs the largest of the three.
+# Write a Python program that uses nested if statements (nested decisions) to get three integers from the user
+# and outputs the largest of the three.
 
 # Variables for three integers users
 myNumOne = 0

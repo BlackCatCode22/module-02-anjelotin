@@ -1,3 +1,7 @@
+# Angelo Andrade
+# payRoll.py
+# 9/8/24
+
 sh = input("Enter Hours: ")
 sr = input("Enter Rate: ")
 try:
